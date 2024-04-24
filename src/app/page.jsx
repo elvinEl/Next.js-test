@@ -1,4 +1,4 @@
-import Movies from "@/components/header/movies/Movies";
+import Movies from "@/components/movies/Movies";
 import React from "react";
 const API_URL = "https://api.themoviedb.org/3";
 

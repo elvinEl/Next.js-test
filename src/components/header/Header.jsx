@@ -1,8 +1,8 @@
 import React from "react";
 import MenuItem from "./MenuItem";
-import Theme from "./theme/Theme";
+import Theme from "../theme/Theme";
 import Link from "next/link";
-import Search from "./search/Search";
+import Search from "../search/Search";
 
 function Header() {
   const menu = [
